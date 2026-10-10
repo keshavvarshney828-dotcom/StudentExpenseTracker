@@ -41,7 +41,7 @@ The Student Expense Tracker is a B.Tech iOS App Development project designed to 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/StudentExpenseTracker.git
+git clone https://github.com/keshavvarshney828/StudentExpenseTracker.git
 ```
 
 ### 2. Open the Project
